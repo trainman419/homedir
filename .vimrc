@@ -1,6 +1,13 @@
-set ts=3
-set sw=3
+set ts=2
+set sw=2
 set expandtab
-set hlsearch
-set ruler
+set bg=dark
+syn on
 set cindent
+set ruler
+set hlsearch
+set modeline
+
+filetype on
+filetype plugin on
+filetype indent on
