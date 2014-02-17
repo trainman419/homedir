@@ -5,7 +5,7 @@
 [alias]
    st = status
 [push]
-	default = simple
+	default = tracking
 [filter "media"]
 	clean = git-media-clean %f
 	smudge = git-media-smudge %f
