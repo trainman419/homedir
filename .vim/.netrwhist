@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/hendrix/Documents/workspace/.metadata'
-let g:netrw_dirhist_2='/Users/hendrix/brink/src/lib/client'
-let g:netrw_dirhist_3='/Users/hendrix/gts/gts-web-11/css'
-let g:netrw_dirhist_4='/Users/hendrix/Mai-HiME'
-let g:netrw_dirhist_5='/Users/hendrix/ubiquity/ros_hercules_robot/teleop_twist_keyboard/nodes'
-let g:netrw_dirhist_6='/Users/hendrix/ubiquity/ros_hercules_robot/teleop_twist_keyboard/teleop_twist_keyboard'
-let g:netrw_dirhist_7='/Users/hendrix/hue/pySpacebrew/examples/pySpacebrew'
