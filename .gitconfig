@@ -3,6 +3,7 @@
 	email = legotown@aol.com
 
 [alias]
+   alog = log --all --graph --date-order --decorate --pretty='format:%C(yellow)%h%Creset%C(red)%d%Creset %C(cyan)%an%Creset %ci %s'
    st = status
 [push]
 	default = tracking
