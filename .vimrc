@@ -3,7 +3,6 @@ set sw=2
 set expandtab
 set bg=dark
 syn on
-set cindent
 set ruler
 set hlsearch
 set modeline
