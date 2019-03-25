@@ -6,6 +6,8 @@
    alog = log --all --graph --date-order --decorate --pretty='format:%C(yellow)%h%Creset%C(red)%d%Creset %C(cyan)%an%Creset %ci %s'
    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
    st = status
+   conflicts = diff --name-only --diff-filter=U
+   rev = rev-parse HEAD
 [push]
 	default = tracking
 [filter "media"]
