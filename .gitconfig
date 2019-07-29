@@ -1,6 +1,6 @@
 [user]
-	name = trainman419
-	email = legotown@aol.com
+	name = Austin Hendrix
+	email = namniart@gmail.com
 
 [alias]
    alog = log --all --graph --date-order --decorate --pretty='format:%C(yellow)%h%Creset%C(red)%d%Creset %C(cyan)%an%Creset %ci %s'
